@@ -1,0 +1,5 @@
+name: hijri_dart_astrolabe_stereographic
+description: "Planispheric Astrolabe Stereographic Projection (Safihah, Almucantars & Ankabout)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
